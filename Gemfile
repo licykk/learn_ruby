@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 gem 'rake', '< 11.0'
 gem 'rspec', '~> 3.4'
